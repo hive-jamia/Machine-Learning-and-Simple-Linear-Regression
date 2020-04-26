@@ -1,0 +1,26 @@
+1. What is ML?
+
+2. Types of models-
+	a. Classifion
+	b. Regression
+	c. other ( NLP, Association, deep learning etc. )
+
+3. Types of Learning -
+	a. Supervised
+	b. Unsupervised
+
+4. Steps in ML -
+	i. Gathering Data (data is the new oil)
+	ii. Preprocessing the data
+	iii. Choose the appropriate model (Image, audio, numerical )
+	iv. Training
+	v.  Evluaution on test
+	vi. Hyperparameter tuning
+	vii. Prediction
+
+5. Google Teachable Machine (Demo)
+
+7. Simple Linear Regression (Theory)
+
+8. Practical (python)
+6. Features and Labels
